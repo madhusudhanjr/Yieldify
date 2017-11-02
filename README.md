@@ -1,4 +1,4 @@
-#Yieldify QA Automation Task - Google Keep
+Yieldify QA Automation Task - Google Keep
 
 **Goal:**
 To Automate 3 - 5 of the test scenarios for Google Keep Web App on **Mobile Browser**
@@ -24,6 +24,7 @@ Created a BDD Cucumber Feature file with the above mentioned Test Scenarios,
 8. Test App: Google Keep Web App
 9. Device Tested: iOS Simulators (iPhone 5s, iPhone 6 Plus, iPhone 7 Plus)
 10. Platform: macOS Sierra (v 10.12.6)
+11. Broswer: Safari
 
 
 **Steps to run the Tetsts:**
