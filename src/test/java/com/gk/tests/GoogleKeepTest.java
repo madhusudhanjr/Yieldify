@@ -13,6 +13,6 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(plugin = { "pretty", "html:target/cucumber_test_report" }, features = {
 		"classpath:Features/GoogleKeep.feature" }, glue = { "com.gk.stepdefs" })
-public class GoogleKeepTestRunner {
+public class GoogleKeepTest {
 
 }
